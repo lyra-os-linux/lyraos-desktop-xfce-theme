@@ -1,10 +1,10 @@
 # Lyra OS
 
 > [!WARNING]
-> Este repositório é a futura identidade visual do flavor KDE experimental.
+> Este repositório é a futura identidade visual do flavor XFCE experimental.
 > Ele foi derivado do tema GNOME para preservar o histórico, mas ainda não
-> fornece um tema KDE suportado. Os wallpapers entram somente depois da Alpha
-> inicial formada pela pilha KDE da base.
+> fornece um tema XFCE suportado. Os wallpapers entram somente depois da Alpha
+> inicial formada pela pilha XFCE da base.
 
 Identidade visual para GNOME 48+, criada para o Lyra OS e para openSUSE. A
 configuração recomendada usa Adwaita no Shell e nos aplicativos, com ícones e
