@@ -9,10 +9,11 @@ URL:            https://github.com/lyra-os-linux/lyraos-desktop-theme
 Source0:        lyra-theme-src-%{version}.tar.gz
 BuildArch:      noarch
 Requires:       adwaita-icon-theme
+Requires:       adwaita-xfce-icon-theme
 
 %description
 Icon theme for Lyra OS. It provides branded vector icons for common
-places, devices and applications and inherits Adwaita for complete GNOME coverage.
+places, devices and applications and inherits Adwaita plus its XFCE extension.
 
 %prep
 %setup -q -n lyra-theme-src-%{version}
