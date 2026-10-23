@@ -1,10 +1,19 @@
-# Lyra OS
+# Lyra OS — identidade visual XFCE (experimental)
 
 > [!WARNING]
 > Este repositório é a futura identidade visual do flavor XFCE experimental.
 > Ele foi derivado do tema GNOME para preservar o histórico, mas ainda não
 > fornece um tema XFCE suportado. Os wallpapers entram somente depois da Alpha
 > inicial formada pela pilha XFCE da base.
+>
+> O restante deste README foi herdado do tema GNOME antigo (`lyra-os-theme`
+> 1.5.0) e é mantido só como histórico. As instruções de instalação clonam e
+> baixam arquivos de
+> [`lyraos-desktop-theme`](https://github.com/lyra-os-linux/lyraos-desktop-theme),
+> não deste repositório, e não instalam nada específico do XFCE. Não execute
+> `install.sh`, `install-rpm.sh` nem `--uninstall` a partir daqui. O tema GNOME
+> atual usa Adwaita, é distribuído como RPM e não oferece mais desinstalação
+> local nem rollback completo; consulte o README daquele repositório.
 
 Identidade visual para GNOME 48+, criada para o Lyra OS e para openSUSE. A
 configuração recomendada usa Adwaita no Shell e nos aplicativos, com ícones e
